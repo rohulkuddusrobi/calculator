@@ -124,8 +124,7 @@ body {
 }
 
 .key-zero {
-  grid-column: span 2;
-  aspect-ratio: auto;
+  aspect-ratio: 1;
 }
 
 @keyframes aurora-shift {
